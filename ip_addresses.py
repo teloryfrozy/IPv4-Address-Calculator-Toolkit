@@ -1,6 +1,6 @@
 '''
  ============================================================================
- Name        : ip_addresses.c
+ Name        : ip_addresses.py
  Author      : Augustin ROLET
  Version     : 1.0
  Copyright   : Copyright Free
